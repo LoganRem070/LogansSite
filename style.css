@@ -1,0 +1,39 @@
+/*paralax*/
+
+.paralax img {
+    max-width: 100%;
+    height: auto;
+    width: 0%;
+}
+
+.paralax h1 {
+    color: rebeccapurple;
+}
+
+body {
+    background-color: black;
+}
+
+.sec {
+    padding: 3vw;
+}
+
+.sec h1 {
+    color: rgb(134, 4, 4);
+}
+
+.sec p {
+    color: gray;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+hr {
+    margin: 5vh;
+}
